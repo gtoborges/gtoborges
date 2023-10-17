@@ -1,16 +1,17 @@
-### Hi :wave:
+## Hi :wave:
 
-I'm a student from Brazil on the way to get my bachelor's degree in Information Systems :mortar_board: at the [Federal University of Goiás](https://international.ufg.br/) and a software developer at [iRancho](https://github.com/iranchobr)
+##### I'm a software developer and a recent Information Systems graduate currently looking for new opportunities in frontend, backend, or blockchain development. You can find my resumé and other links [here](https://gtoborges.github.io/resume/).
 
-### Technologies I've been working with and learning on my daily basis
+__________________________
 
-<img height="20" src="https://vuejs.org//images/logo.png"> VueJS
-<img height="22" src="https://nodejs.org/static/images/logo-hexagon-card.png"> NodeJS
-<img height="20" src="https://sequelize.org/favicon.ico"> Sequelize
-<img height="18" src="https://labs.mysql.com/common/themes/sakila/favicon.ico"> MySQL
+## Olá :wave:
 
-### Get in touch
+##### Sou um desenvolvedor recém graduado em Sistemas de Informação atualmente buscando por novas oportunidades na área de desenvolvimento web, seja frontend, backend, e blockchain. Você pode encontrar meu currículo e outros links [aqui](https://gtoborges.github.io/resume/).
 
- - :mailbox_with_mail: [Send me an email](mailto:gtoborges@gmail.com)
+__________________________
 
- - <img height="20" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"> [Find my profile here](https://www.linkedin.com/in/augusto-araujo-borges-1472a9151/)
+#### Get in touch / Entre em contato
+
+ - :mailbox_with_mail: [Email](mailto:gtoborges@gmail.com)
+
+ - <img height="20" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"> [LinkedIn](https://www.linkedin.com/in/augusto-araujo-borges-1472a9151/)
