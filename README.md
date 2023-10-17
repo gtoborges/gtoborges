@@ -1,12 +1,12 @@
 ## Hi :wave:
 
-##### I'm a software developer and a recent Information Systems graduate currently looking for new opportunities in frontend, backend, or blockchain development. You can find my resumé and other links [here](https://gtoborges.github.io/resume/).
+I'm a software developer and a recent Information Systems graduate currently looking for new opportunities in frontend, backend, or blockchain development. You can find my resumé and other links **[here](https://gtoborges.github.io/resume/)**.
 
 __________________________
 
 ## Olá :wave:
 
-##### Sou um desenvolvedor recém graduado em Sistemas de Informação atualmente buscando por novas oportunidades na área de desenvolvimento web, seja frontend, backend, e blockchain. Você pode encontrar meu currículo e outros links [aqui](https://gtoborges.github.io/resume/).
+Sou um desenvolvedor recém graduado em Sistemas de Informação atualmente buscando por novas oportunidades na área de desenvolvimento web, seja frontend, backend, e blockchain. Você pode encontrar meu currículo e outros links **[aqui](https://gtoborges.github.io/resume/)**.
 
 __________________________
 
